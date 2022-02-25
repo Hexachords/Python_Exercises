@@ -1,2 +1,2 @@
 # Python_Exercises
- A collection of Python exercises and challenges
+ A collection of Python exercises , challenges and solutions
