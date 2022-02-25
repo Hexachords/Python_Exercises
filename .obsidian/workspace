@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "003-basic-math.md",
+            "file": "Solutions/005-solution.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003-basic-math.md",
+                "file": "Solutions/005-solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,10 @@
   },
   "active": "35a73a2f5ae21d7b",
   "lastOpenFiles": [
+    "Solutions/005-solution.md",
+    "Solutions/004-solution.md",
+    "005-string-to-number.md",
+    "004-divide-two-ways.md",
     "003-basic-math.md",
     "Solutions/003-solution.md",
     "Solutions/002-solution.md",
