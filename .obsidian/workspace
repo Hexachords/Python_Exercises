@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "002-if-else.md",
+            "file": "Solutions/002-solution.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002-if-else.md",
+                "file": "Solutions/002-solution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,8 +88,8 @@
   },
   "active": "35a73a2f5ae21d7b",
   "lastOpenFiles": [
-    "002-if-else.md",
     "Solutions/002-solution.md",
+    "002-if-else.md",
     "001-hello-world.md",
     "README.md"
   ]
