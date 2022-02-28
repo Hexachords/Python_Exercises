@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Solutions/007-solutions.md",
-            "mode": "source"
+            "file": "007-print-problems.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions/007-solutions.md",
+                "file": "007-print-problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,11 +88,11 @@
   },
   "active": "35a73a2f5ae21d7b",
   "lastOpenFiles": [
-    "Solutions/007-solutions.md",
     "007-print-problems.md",
+    "Solutions/007-solutions.md",
+    "Solutions/005-solution.md",
     "Solutions/006-solution.md",
     "006-easy-loops.md",
-    "Solutions/005-solution.md",
     "Solutions/004-solution.md",
     "005-string-to-number.md",
     "004-divide-two-ways.md",
